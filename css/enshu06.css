@@ -1,0 +1,19 @@
+h1{
+    color: #ff15ff;
+    font-size:  60px;
+    font-weight:  normal;
+    font-family: "Impact";
+    text-align: center;
+    background-color: black;
+}
+
+p{
+    //background-color: azure;
+}
+
+body{
+    background-image:url(../images/back1.jpeg);
+    background-repeat:repeat-y;
+    background-attachment: fixed;
+    background-position: right;
+}
