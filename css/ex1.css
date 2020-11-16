@@ -1,0 +1,46 @@
+table{
+     background-color: gold;
+    
+}
+img{
+   width:  100%;
+    height: 90%;
+    
+}
+h1{
+    color: #ffffff;
+ 
+    font-weight:  normal;
+    font-family: "Impact";
+    text-align: center;
+    background-color: blue;
+}
+
+p{
+     color: #98d98e;
+    //background-color: azure;
+    
+}
+
+body{
+    background-image:url(../images/back4.jpeg);
+    
+  
+}
+h2{
+     color: #883822;
+   
+    font-weight:  normal;
+    font-family: "Impact";
+    text-align: center;
+    background-color: yellow;
+    
+}
+h3{
+    color: #883822;
+    
+}
+ol{
+    background-image:url(../images/back3.jpeg);
+    
+}
