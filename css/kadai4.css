@@ -1,0 +1,58 @@
+table{
+     background-color: black;
+    
+}
+img{
+   width:  50%;
+    height: 50%;
+    
+}
+
+
+h1{
+    color: #ffffff;
+ 
+    font-weight:  normal;
+    font-family: "Impact";
+    text-align: center;
+    background-color:black;
+}
+
+
+    
+
+
+
+h2#dannberu{
+     color: #00ffff;
+   
+    font-weight:  normal;
+    font-family: "Impact";
+    text-align: center;
+    background-color: yellow;
+    
+}
+
+
+h2{
+     color: #ff0000;
+   
+    font-weight:  normal;
+    font-family: "Impact";
+    text-align: center;
+    background-color: green;
+    
+}
+
+.rink{
+    color: #000000;
+    font-weight:  normal;
+    font-family: "Impact";
+    text-align: center;
+    background-color: blue;
+}
+body{
+   
+    background-image:url(../images/back5.jpeg);
+  
+}
