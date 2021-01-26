@@ -1,0 +1,140 @@
+div.title{
+   width: 1000px;
+   height:50px; 
+    background-color: gray;
+    font-size: 40px;
+    font-family: "Impact";
+    margin-bottom: 20px;
+     color: #ffffff;
+    font-weight:  normal;
+    text-align: center;
+    
+}
+div.wrap{
+width : 1000px;
+margin : 0px auto;
+}
+
+div.da{
+       width: 1000px;
+   height:200px; 
+    background-color: lightblue;
+    font-family: "Impact";
+    margin-bottom: 70px;
+    font-size: 0px;
+}
+
+    
+    
+    
+
+
+ div.kuu1{
+    display: inline-block;
+    vertical-align: top;
+    width: 250px;
+    height: 200px;
+    background-color: gray;
+    margin-right: 50px; 
+    font-size: 0px;
+}
+
+div.kuu2{
+    display: inline-block;
+    vertical-align: top;
+    width: 700px;
+    height: 250px;
+    background-color: gray;
+    font-size: 0px;
+    margin-bottom:10px;
+}
+
+div.kuu3{
+    display: inline-block;
+    width: 300px;
+    height: 290px;
+    background-color: gray;
+    font-size: 0px;
+    margin-top:60px; 
+     margin-bottom:20px;
+    margin-left:300px; 
+}
+
+div.ika1{
+    display: block;
+        width: 250px;
+    height: 40px;
+    background-color: red;
+    font-size: 20px;
+    margin-bottom:40px; 
+}
+
+div.ika2{
+    display: block;
+        width: 250px;
+    height: 40px;
+    background-color: red;
+    font-size: 20px;
+    margin-bottom:40px; 
+}
+
+div.ika3{
+    display: block;
+        width: 250px;
+    height: 40px;
+    background-color: red;
+    font-size: 20px;
+}
+
+div.tako1{
+    display: block;
+        width: 700px;
+    height: 250px;
+    background-color: ghostwhite;
+    font-size: 0px;
+}
+
+div.tako2{
+    display: block;
+        width: 700px;
+    height: 60px;
+    background-color: blue;
+    font-size: 20px;
+    
+}
+
+div.yuni1{
+    display: block;
+        width: 700px;
+    height: 250px;
+    background-color: ghostwhite;
+    font-size: 0px;
+}
+
+div.yuni2{
+        display: block;
+        width: 700px;
+    height: 60px;
+    background-color: blue;
+    font-size: 20px;
+   
+    
+}
+
+img{
+   width:  100%;
+    height: 100%;}
+
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color: orange;
+    font-size: 20px;
+    font-family: "Impact";
+   
+   margin-top: 20px;
+}
+body{
+   background-image:url(../images/haikei1.jpeg);
+  
+}
